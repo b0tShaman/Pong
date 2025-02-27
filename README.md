@@ -16,8 +16,8 @@ This is a Pong game implemented in Java. The left paddle (Red) was trained using
 
 - **Two-Player Mode (NONE):**
 
-  - Red Paddle (Left): `W` (↑), `S` (↓)
-  - Blue Paddle (Right): `↑` (Up Arrow), `↓` (Down Arrow)
+  - Red Paddle (Left): `W` (Up), `S` (Down)
+  - Blue Paddle (Right): `↑` (Up), `↓` (Down)
 
 - **Single Player Mode:**
 
