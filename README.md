@@ -39,7 +39,7 @@ public static int MAX_POINTS = 10;
 
 - `B0T_Type.DQN` - Uses the trained ML model (DQN) for paddle movement.
 - `B0T_Type.PROGRAMMED` - Uses a predefined logic for the paddle.
-- `B0T_Type.NONE` - Disables ML, enabling two-player mode.
+- `B0T_Type.NONE` - Disables bot, enabling two-player mode.
 - `B0T_Team.RED` - ML/Programmed bot controls the Red paddle.
 - `B0T_Team.BLUE` - Programmed bot controls the Blue paddle.
 
