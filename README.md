@@ -4,6 +4,7 @@
 
 This is a Pong game implemented in Java. The left paddle (Red) was trained using Reinforcement Learning (DQN) to play by selecting one of three actions: moving UP, moving DOWN, or staying still for a given position of the ball. The right paddle (Blue) can be controlled manually using ↑ and ↓ arrows.
 
+![Demo](assets/demo.gif)
 ## Features
 
 - **ML-Powered Paddle**: The Red paddle (left) is trained using DQN.
