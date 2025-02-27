@@ -49,10 +49,10 @@ public static int MAX_POINTS = 10;
 
 ## Running the Game
 
-1. Compile and run the Java program using:
+1. Compile and run the Java program using :
    ```sh
-   javac DQN/DQN.java
-   java DQN/DQN
+   javac -d out -sourcepath src src/DQN/DQN.java
+   java -cp out DQN.DQN
    ```
 2. Adjust bot settings in the code if necessary.
 3. Play against AI Bot, Programmed Bot or with another player!
