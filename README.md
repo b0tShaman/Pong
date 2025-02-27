@@ -55,6 +55,5 @@ public static int MAX_POINTS = 10;
    java -cp out DQN.DQN
    ```
 2. Adjust bot settings in the code if necessary.
-3. Play against AI Bot, Programmed Bot or with another player!
+3. Play against AI Bot, Programmed Bot or with another player.
 
-Enjoy playing Pong with ML!
