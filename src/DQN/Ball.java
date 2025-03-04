@@ -43,7 +43,7 @@ public class Ball implements Runnable {
 
     public void draw(Graphics g) {
         g.setColor(Color.WHITE);
-        g.fillRect(ball.x, ball.y, ball.width, ball.height);
+        g.fillOval(ball.x, ball.y, ball.width, ball.height);
     }
 
     public void collision(){
